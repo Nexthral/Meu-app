@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "usuario": "admin",
+            "nome": "Nexthral",
+            "id": "123",
+            "password": "senha123"
+        },
+        {
+            "usuario": "wplay",
+            "nome": "Welington",
+            "id": "456",
+            "password": "senha456"
+        }
+    ]
+}
